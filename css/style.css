@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.NBZfOt3EP2lyXa2GgRc56gHaFZ?pid=ImgDet&w=480&h=350&rs=1);
+    background-color:burlywood;
+    opacity: 100%;
+    background-position: right top;
+    background-repeat: no-repeat;
+    
+}
+h1
+{
+    background-color: aqua;
+    width: 80px;
+    text-decoration: solid;
+}
+h2{
+    text-decoration:underline;
+}
+p{
+    text-align: left;
+    color: blue;
+    margin-right: 480px;
+
+    
+}  
+    li{text-decoration: solid;}
